@@ -15,18 +15,11 @@ Compile and run
 
 1. Download the 'cocos2dx' game engine.
 2. Use the command 'cocos new -l cpp -p com.gamefromscratch.gamename -d C:\path\to\game\here gamename' to create a template for the game.
-3. Unzip the file 'Code.7z'
-4. Copy the '.cpp' and '.h' files into the folder 'Classes' that created by the game engine. (Replace the file 'AppDelegate.cpp' and 'AppDelegate.h')
-5. Use the 2017 version of 'Visual Studio', open the project 'magic_carpet_1001_simulator.sln' under the 'proj.win32' folder.
-6. Add the files in the 'Classes' folder into the VS porject.
-7. Copy the 'resources' folder into the 'Debug.win32' folder for the sounds and pictures. 
+3. Copy the '.cpp' and '.h' files into the folder 'Classes' that created by the game engine. (Replace the file 'AppDelegate.cpp' and 'AppDelegate.h')
+4. Use the 'Visual Studio', open the project 'gamename.sln' under the 'proj.win32' folder.
+5. Add the files in the 'Classes' folder into the VS porject.
+6. Copy the 'resources' folder into the 'Debug.win32' folder for the sounds and images. 
 7. Debug the project. (This will run a while)
-
-Win32 excutabel version
------------------------
-1. Unzip the file 'magic_carpet_1001_simulator_win32.7z'.
-2. Open the file 'magic_carpet_1001_simulator.exe'.
-3. Make sure all the required 'DriectX' engine are installed on your computer.
 
 -----
 Usage
