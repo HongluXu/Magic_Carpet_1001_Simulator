@@ -21,6 +21,12 @@ Compile and run
 6. Copy the 'resources' folder into the 'Debug.win32' folder for the sounds and images. 
 7. Debug the project. (This will run a while)
 
+Win32 executable version
+-----------------------
+1. Unzip the file 'magic_carpet_1001_simulator_win32.7z'.
+2. Open the file 'magic_carpet_1001_simulator.exe'.
+3. Make sure all the required 'DriectX' engine are installed on your computer.
+
 -----
 Usage
 -----
